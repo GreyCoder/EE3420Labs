@@ -1,0 +1,2 @@
+ANSWER 3A)
+This Function will reverse a string by exchanging the chars in the first half with the chars on the second half.
